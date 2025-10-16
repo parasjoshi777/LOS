@@ -1,0 +1,5 @@
+../test_home/user1/.ssh/authorized_keys:ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQ sample_key1
+../test_home/user2/.ssh/authorized_keys:ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQ sample_key2
+Sample SSH keys found:
+user1@localhost
+user2@localhost

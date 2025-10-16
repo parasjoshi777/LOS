@@ -1,0 +1,4 @@
+root
+kali
+kali
+lightdm

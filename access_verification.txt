@@ -1,0 +1,3 @@
+root
+uid=0(root) gid=0(root) groups=0(root)
+Working in: /home/kali/global/attack/pentest_output

@@ -1,0 +1,21 @@
+Linux kali 6.12.38+kali-amd64 #1 SMP PREEMPT_DYNAMIC Kali 6.12.38-1kali1 (2025-08-12) x86_64 GNU/Linux
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.9G     0  1.9G   0% /dev
+tmpfs           392M  1.3M  391M   1% /run
+/dev/sda1        79G   17G   59G  22% /
+tmpfs           2.0G  4.0K  2.0G   1% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           2.0G  3.6M  2.0G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           392M  128K  392M   1% /run/user/1000
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           2  0.0  0.0      0     0 ?        S    00:41   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    00:41   0:00  \_ [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   00:41   0:00  \_ [kworker/R-kvfree_rcu_reclaim]
+root           5  0.0  0.0      0     0 ?        I<   00:41   0:00  \_ [kworker/R-rcu_gp]
+root           6  0.0  0.0      0     0 ?        I<   00:41   0:00  \_ [kworker/R-sync_wq]
+root           7  0.0  0.0      0     0 ?        I<   00:41   0:00  \_ [kworker/R-slub_flushwq]
+root           8  0.0  0.0      0     0 ?        I<   00:41   0:00  \_ [kworker/R-netns]
+root          10  0.0  0.0      0     0 ?        I<   00:41   0:00  \_ [kworker/0:0H-events_highpri]
+root          12  0.0  0.0      0     0 ?        I    00:41   0:00  \_ [kworker/u128:0-ipv6_addrconf]

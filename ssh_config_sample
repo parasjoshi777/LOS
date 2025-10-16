@@ -1,0 +1,3 @@
+Port 22
+Listen 80
+port = 5432

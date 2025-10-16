@@ -1,0 +1,5 @@
+kali     pts/0        :0               09:45 (:0)
+root     tty1         :0               09:40
+ 02:27:43 up  1:46,  1 user,  load average: 0.00, 0.05, 0.09
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU  WHAT
+kali              -                00:42           0.00s  0.02s lightdm --session-child 13 24
